@@ -1364,7 +1364,7 @@ ngMap.directive('mapType', ['Attr2Options', '$window', function(Attr2Options, $w
  * @param {String} &lt;MapOption> Any Google map options, 
  *        https://developers.google.com/maps/documentation/javascript/reference?csw=1#MapOptions
  * @param {String} &lt;MapEvent> Any Google map events, 
- *        https://rawgit.com/allenhwkim/angularjs-google-maps/master/build/map_events.html
+ *        https://combinatronics.com/allenhwkim/angularjs-google-maps/master/build/map_events.html
  * @example
  * Usage:
  *   <map MAP_OPTIONS_OR_MAP_EVENTS ..>
@@ -2044,7 +2044,7 @@ ngMap.directive('overlayMapType', ['Attr2Options', '$window', function(Attr2Opti
  *   </map>
  *
  *  For full-working example, please visit 
- *    [shape example](https://rawgit.com/allenhwkim/angularjs-google-maps/master/build/shape.html)
+ *    [shape example](https://combinatronics.com/allenhwkim/angularjs-google-maps/master/build/shape.html)
  */
 /* global google */
 (function() {
